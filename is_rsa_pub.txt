@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOqi8n3FIdn76j/shSBSoWrvCflOUJV9YN1VqOjdjZjR sinatoy.pro@gmail.com
